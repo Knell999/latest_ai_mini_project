@@ -1,0 +1,11 @@
+[project]
+name = "code-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=1.82.1",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.1",
+]
